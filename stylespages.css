@@ -1,0 +1,38 @@
+body{
+    font-family: 'Arial', sans-serif;
+    background-color: #f9f9f9;
+    color: #333;
+    padding: 20px;
+}
+
+img {
+    display: block;
+    margin: 30px auto 30px auto;
+    max-width: 300px;
+    height: auto;
+    border-radius: 10px;
+    
+}
+
+h1 {
+    color: #333;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.back-button{
+    display: block;
+    margin: 20px auto;
+    padding: 10px 20px;
+    background-color: #ffffff;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+a{
+    color: #333;
+    text-decoration: none;
+    font-weight: bold;
+}
+
